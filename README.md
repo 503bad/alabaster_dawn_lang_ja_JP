@@ -1,0 +1,2 @@
+# alabaster_dawn_lang_ja_JP
+Alabaster Dawnの非公式日本語化データです。Steam\steamapps\common\Alabaster Dawn\配下にデータを上書きするとOptionのLanguageにJapanaseが追加されます。
