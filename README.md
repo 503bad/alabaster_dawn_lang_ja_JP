@@ -6,3 +6,4 @@ Alabaster Dawnの非公式日本語化データです。
 {あなたのSteamのインストールディレクトリ}\steamapps\common\Alabaster Dawn\terra\
 ```
 
+日本語化においてはClaude codeを利用しています。
